@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\Projects\Football-League-Maker\Football League Maker\Football League Maker
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/HP/Desktop/Projects/Football-League-Maker/Football League Maker/Football League Maker/Views/Leagues/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZ3Vlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Projects/Football-League-Maker/Football League Maker/Football League Maker/Views/Leagues/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZ3Vlc1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HP/Desktop/Projects/Football-League-Maker/Football League Maker/Football League Maker/Views/Leagues/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZ3Vlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +33,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/HP/Desktop/Projects/Football-League-Maker/Football League Maker/Football League Maker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Projects/Football-League-Maker/Football League Maker/Football League Maker/Views/Teams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Projects/Football-League-Maker/Football League Maker/Football League Maker/Views/Teams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HP/Desktop/Projects/Football-League-Maker/Football League Maker/Football League Maker/Views/_ViewImports.cshtml]
